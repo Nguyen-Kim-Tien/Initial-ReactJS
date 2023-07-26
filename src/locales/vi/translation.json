@@ -1,0 +1,10 @@
+{
+  "components": {},
+  "layouts": {},
+  "pages": {
+    "Test": {
+      "hello_reactJS": "Xin chào ReactJS"
+    }
+  },
+  "validates": {}
+}

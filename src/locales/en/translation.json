@@ -1,0 +1,10 @@
+{
+  "components": {},
+  "layouts": {},
+  "pages": {
+    "Test": {
+      "hello_reactJS": "Hello ReactJS"
+    }
+  },
+  "validates": {}
+}
